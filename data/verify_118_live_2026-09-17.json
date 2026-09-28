@@ -1,0 +1,1048 @@
+[
+  {
+    "domain": "nationalreview.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "baahrakhari.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "bellingcat.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "birminghamwatch.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "charliehebdo.fr",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "denverite.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "eltimpano.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "fair.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "gazette.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "karobardaily.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "montanafreepress.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "newstribune.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "novayagazeta.eu",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "openvallejo.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "osnepal.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "periodismoinvestigativo.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "punchbowl.news",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "reductress.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "thahakhabar.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "the74million.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "patreon.com",
+    "status": 200,
+    "ai_train_no": true,
+    "content_signal": true,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "crn77.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "myinstants.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "omg10.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "xnxx.health",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "wnacg.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "ey43.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "dogdrip.net",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "momon-ga.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "manhwaweb.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "animanch.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "animesalt.ac",
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "domain": "loteriadehoy.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "xn--12c1ezaww.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "mp4moviez.fan",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "filmyzilla39.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "si.edu",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "acronis.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "ko-fi.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "a2hosting.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "standardnotes.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "vaticannews.va",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "findagrave.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "airasia.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "marinetraffic.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "opensea.io",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "aps.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "icons8.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "epfl.ch",
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "domain": "atptour.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "inaturalist.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "opaque.net",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "castbox.fm",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "hud.gov",
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "domain": "codeforces.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "stylevana.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "thuvienphapluat.vn",
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "domain": "rebrand.ly",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "gsu.edu",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "up.pt",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "comparethemarket.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": true,
+    "article4": true,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "use.ai",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "russianfood.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "wikiwand.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "hentaiera.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "voz.vn",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "rae.es",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "wiki.gg",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "examiner.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "shahvani.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "tv3.lt",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "beatport.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "jetpunk.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "emojidb.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "otieu.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "7dak.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "aryion.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "rm358.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "vortexscans.org",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "chronicle.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "livecamrips.to",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "52shuku.net",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "sextb.net",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "obqj2.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "nikkei225jp.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "novelfire.net",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "emojicombos.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": true,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "momvids.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "gimkit.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "bigthink.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "orizzontescuola.it",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "sexbebin.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": true,
+    "bps": false
+  },
+  {
+    "domain": "hentai20.io",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "insidehighered.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "porn-comic.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "getmodsapk.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "pari-betting.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "hubcloud.foo",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "aflamk1.net",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "kriesi.at",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "odysee.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "dorama.land",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "nekopoi.care",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "5278.cc",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "arabsex1.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "priceoye.pk",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "streamimdb.ru",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "odibets.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "mcw-casino.games",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "freevideo.cz",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "123-hds.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "yakkun.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "bokepnoz.in",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "loteriasdominicanas.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "mastibaba.com",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "nu.or.id",
+    "status": 403,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "cdnfonts.com",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": false,
+    "gptbot": false,
+    "bps": false
+  },
+  {
+    "domain": "bisp.gov.pk",
+    "status": 200,
+    "ai_train_no": false,
+    "content_signal": false,
+    "article4": true,
+    "gptbot": false,
+    "bps": false
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "sample_size": 250,
+  "total_probes": 1500,
+  "elapsed_sec": 650.6,
+  "vantage": "residential (single machine, one exit IP)",
+  "per_ua": {
+    "browser": {
+      "blocked": 25,
+      "error": 15,
+      "ok": 193,
+      "ratelimited": 12,
+      "challenge": 3,
+      "other-404": 2
+    },
+    "gptbot": {
+      "blocked": 44,
+      "error": 21,
+      "ok": 111,
+      "blocked-payment": 60,
+      "ratelimited": 11,
+      "challenge": 1,
+      "other-404": 1,
+      "other-406": 1
+    },
+    "claudebot": {
+      "blocked": 48,
+      "error": 21,
+      "ok": 92,
+      "blocked-payment": 62,
+      "ratelimited": 24,
+      "challenge": 1,
+      "other-404": 1,
+      "other-202": 1
+    },
+    "perplexitybot": {
+      "blocked": 46,
+      "error": 20,
+      "ok": 113,
+      "blocked-payment": 62,
+      "ratelimited": 6,
+      "challenge": 2,
+      "other-404": 1
+    },
+    "ccbot": {
+      "blocked": 46,
+      "error": 21,
+      "ok": 94,
+      "blocked-payment": 60,
+      "ratelimited": 25,
+      "challenge": 1,
+      "other-404": 1,
+      "other-406": 2
+    },
+    "meta-externalagent": {
+      "blocked": 44,
+      "error": 21,
+      "ok": 95,
+      "blocked-payment": 59,
+      "ratelimited": 28,
+      "challenge": 1,
+      "other-404": 1,
+      "other-406": 1
+    }
+  },
+  "per_ua_status": {
+    "browser": {
+      "403": 17,
+      "None": 15,
+      "200": 196,
+      "429": 12,
+      "451": 8,
+      "404": 2
+    },
+    "gptbot": {
+      "403": 36,
+      "None": 21,
+      "200": 112,
+      "402": 60,
+      "429": 11,
+      "451": 8,
+      "404": 1,
+      "406": 1
+    },
+    "claudebot": {
+      "403": 40,
+      "None": 21,
+      "200": 93,
+      "402": 62,
+      "429": 24,
+      "451": 8,
+      "404": 1,
+      "202": 1
+    },
+    "perplexitybot": {
+      "403": 37,
+      "None": 20,
+      "200": 115,
+      "402": 62,
+      "429": 6,
+      "451": 9,
+      "404": 1
+    },
+    "ccbot": {
+      "403": 38,
+      "None": 21,
+      "200": 95,
+      "402": 60,
+      "429": 25,
+      "451": 8,
+      "404": 1,
+      "406": 2
+    },
+    "meta-externalagent": {
+      "403": 39,
+      "None": 21,
+      "200": 96,
+      "402": 59,
+      "429": 28,
+      "451": 5,
+      "404": 1,
+      "406": 1
+    }
+  }
+}

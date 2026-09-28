@@ -1,0 +1,58 @@
+Segment,Metric,"July 10, 2026","Sept 16, 2026",Change
+"Open web (Tranco top 10k, excl. news)",Behind Cloudflare proxy (%),26,26.3,0.3
+"Open web (Tranco top 10k, excl. news)",In scope for Cloudflare default: Cloudflare + ads (% of segment),8.5,8.6,0.1
+"Open web (Tranco top 10k, excl. news)",Disallow any AI crawler in robots.txt (%),10.3,8.3,-2
+"Open web (Tranco top 10k, excl. news)",Disallow GPTBot (%),7.9,5.7,-2.2
+"Open web (Tranco top 10k, excl. news)",Disallow ClaudeBot (%),7,4.7,-2.3
+"Open web (Tranco top 10k, excl. news)",Disallow CCBot (%),8.2,6,-2.2
+"Open web (Tranco top 10k, excl. news)",Disallow Google-Extended (%),6.3,3.9,-2.4
+"Open web (Tranco top 10k, excl. news)",Publish llms.txt (%),7.9,9.3,1.4
+"Open web (Tranco top 10k, excl. news)",Robots.txt carries Cloudflare managed block (%) [Sept only],,0.1,
+"Open web (Tranco top 10k, excl. news)",Enforcement subset tested (n),948,948,0
+"Open web (Tranco top 10k, excl. news)",Sites disallowing GPTBot with a valid live test (n),45,44,-1
+"Open web (Tranco top 10k, excl. news)",Paper-only bans: disallow GPTBot but served it a 200 (n),21,26,5
+"Open web (Tranco top 10k, excl. news)",Paper-only bans (% of those disallowing GPTBot),46.7,59.1,12.4
+"Open web (Tranco top 10k, excl. news)","Silent enforcers: no robots.txt ban, but GPTBot blocked while browser served (n)",37,45,8
+"Open web (Tranco top 10k, excl. news)","GPTBot request served a page, datacenter IP (%)",67.8,68.6,0.8
+"Open web (Tranco top 10k, excl. news)","Browser request served a page, same datacenter IP (%)",72.3,73.9,1.6
+"Open web (Tranco top 10k, excl. news)",Our own requests challenged / CAPTCHA (%),7.6,6.8,-0.8
+"Open web (Tranco top 10k, excl. news)","IP gap: blocked from datacenter IP, served from residential IP (% of DC-blocked in residential sample)",11.9,5.9,-6
+News publishers,Behind Cloudflare proxy (%),22.4,22.3,-0.1
+News publishers,In scope for Cloudflare default: Cloudflare + ads (% of segment),13.6,13.3,-0.3
+News publishers,Disallow any AI crawler in robots.txt (%),56.4,53,-3.4
+News publishers,Disallow GPTBot (%),50.5,46.9,-3.6
+News publishers,Disallow ClaudeBot (%),48.8,45.6,-3.2
+News publishers,Disallow CCBot (%),52.2,48.9,-3.3
+News publishers,Disallow Google-Extended (%),48.5,44.5,-4
+News publishers,Publish llms.txt (%),3.2,4.5,1.3
+News publishers,Robots.txt carries Cloudflare managed block (%) [Sept only],,0,
+News publishers,Enforcement subset tested (n),1148,1148,0
+News publishers,Sites disallowing GPTBot with a valid live test (n),547,503,-44
+News publishers,Paper-only bans: disallow GPTBot but served it a 200 (n),213,165,-48
+News publishers,Paper-only bans (% of those disallowing GPTBot),38.9,32.8,-6.1
+News publishers,"Silent enforcers: no robots.txt ban, but GPTBot blocked while browser served (n)",78,133,55
+News publishers,"GPTBot request served a page, datacenter IP (%)",54.2,47.2,-7
+News publishers,"Browser request served a page, same datacenter IP (%)",83.8,83.1,-0.7
+News publishers,Our own requests challenged / CAPTCHA (%),8.7,7.7,-1
+News publishers,"IP gap: blocked from datacenter IP, served from residential IP (% of DC-blocked in residential sample)",10.2,7.1,-3.1
+"All 10,894 domains",Behind Cloudflare proxy (%),25.6,25.9,0.3
+"All 10,894 domains",In scope for Cloudflare default: Cloudflare + ads (% of segment),9.1,9.1,0
+"All 10,894 domains",Disallow any AI crawler in robots.txt (%),15.2,13,-2.2
+"All 10,894 domains",Disallow GPTBot (%),12.4,10,-2.4
+"All 10,894 domains",Disallow ClaudeBot (%),11.4,9,-2.4
+"All 10,894 domains",Disallow CCBot (%),12.8,10.5,-2.3
+"All 10,894 domains",Disallow Google-Extended (%),10.8,8.2,-2.6
+"All 10,894 domains",Publish llms.txt (%),7.4,8.8,1.4
+"All 10,894 domains",Robots.txt carries Cloudflare managed block (%) [Sept only],,0.1,
+"All 10,894 domains",Enforcement subset tested (n),2096,2096,0
+"All 10,894 domains",Sites disallowing GPTBot with a valid live test (n),592,547,-45
+"All 10,894 domains",Paper-only bans: disallow GPTBot but served it a 200 (n),234,191,-43
+"All 10,894 domains",Paper-only bans (% of those disallowing GPTBot),39.5,34.9,-4.6
+"All 10,894 domains","Silent enforcers: no robots.txt ban, but GPTBot blocked while browser served (n)",115,178,63
+"All 10,894 domains","GPTBot request served a page, datacenter IP (%)",59.2,55.2,-4
+"All 10,894 domains","Browser request served a page, same datacenter IP (%)",79.6,79.7,0.1
+"All 10,894 domains",Our own requests challenged / CAPTCHA (%),8.2,7.3,-0.9
+"All 10,894 domains","IP gap: blocked from datacenter IP, served from residential IP (% of DC-blocked in residential sample)",10.7,6.8,-3.9
+,,,,
+Note,"Open-web paper-only share rests on a small base (45 July / 44 Sept sites disallowing GPTBot in the top-1,000 test set); use publisher or all-domain figures for headlines.",,,
+Note,"Same-site robots.txt panel (robots.txt 200 both runs): Cloudflare sites 17.1% → 9.9% disallow GPTBot (n=2,205; 165 lost, 7 gained); other sites 18.7% → 18.6% (n=4,511).",,,

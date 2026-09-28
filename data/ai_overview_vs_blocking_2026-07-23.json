@@ -1,0 +1,574 @@
+{
+  "queries": [
+    "latest US politics news 2026",
+    "climate change news this week",
+    "AI regulation latest updates",
+    "Ukraine war current status",
+    "US stock market news today",
+    "supreme court ruling recent",
+    "US economy outlook 2026",
+    "tech industry layoffs 2026",
+    "healthcare news 2026",
+    "election results 2026"
+  ],
+  "total_unique_cited_domains": 82,
+  "cited_and_blocks_ai": [
+    {
+      "domain": "nbcnews.com",
+      "citations": 3,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "cnn.com",
+      "citations": 2,
+      "n_ai_blocked": 7
+    },
+    {
+      "domain": "nytimes.com",
+      "citations": 2,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "theguardian.com",
+      "citations": 2,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "cnbc.com",
+      "citations": 2,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "finance.yahoo.com",
+      "citations": 2,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "linkedin.com",
+      "citations": 2,
+      "n_ai_blocked": 7
+    },
+    {
+      "domain": "abcnews.com",
+      "citations": 1,
+      "n_ai_blocked": 4
+    },
+    {
+      "domain": "rollcall.com",
+      "citations": 1,
+      "n_ai_blocked": 3
+    },
+    {
+      "domain": "thehill.com",
+      "citations": 1,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "aljazeera.com",
+      "citations": 1,
+      "n_ai_blocked": 4
+    },
+    {
+      "domain": "apnews.com",
+      "citations": 1,
+      "n_ai_blocked": 5
+    },
+    {
+      "domain": "bbc.co.uk",
+      "citations": 1,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "bbc.com",
+      "citations": 1,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "cbsnews.com",
+      "citations": 1,
+      "n_ai_blocked": 1
+    },
+    {
+      "domain": "techdecodedly.medium.com",
+      "citations": 1,
+      "n_ai_blocked": 5
+    },
+    {
+      "domain": "bloomberg.com",
+      "citations": 1,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "newsweek.com",
+      "citations": 1,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "npr.org",
+      "citations": 1,
+      "n_ai_blocked": 7
+    },
+    {
+      "domain": "scotusblog.com",
+      "citations": 1,
+      "n_ai_blocked": 8
+    },
+    {
+      "domain": "washingtonpost.com",
+      "citations": 1,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "businessinsider.com",
+      "citations": 1,
+      "n_ai_blocked": 3
+    },
+    {
+      "domain": "computerworld.com",
+      "citations": 1,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "tech.yahoo.com",
+      "citations": 1,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "techcrunch.com",
+      "citations": 1,
+      "n_ai_blocked": 6
+    },
+    {
+      "domain": "forbes.com",
+      "citations": 1,
+      "n_ai_blocked": 7
+    },
+    {
+      "domain": "robert-longyear.medium.com",
+      "citations": 1,
+      "n_ai_blocked": 5
+    }
+  ],
+  "cited_and_no_block": [
+    {
+      "domain": "youtube.com",
+      "citations": 6
+    },
+    {
+      "domain": "reuters.com",
+      "citations": 2
+    },
+    {
+      "domain": "info.cq.com",
+      "citations": 1
+    },
+    {
+      "domain": "politico.com",
+      "citations": 1
+    },
+    {
+      "domain": "insideclimatenews.org",
+      "citations": 1
+    },
+    {
+      "domain": "qz.com",
+      "citations": 1
+    },
+    {
+      "domain": "google.com",
+      "citations": 1
+    },
+    {
+      "domain": "marketwatch.com",
+      "citations": 1
+    },
+    {
+      "domain": "tradingeconomics.com",
+      "citations": 1
+    },
+    {
+      "domain": "wsj.com",
+      "citations": 1
+    },
+    {
+      "domain": "x.com",
+      "citations": 1
+    },
+    {
+      "domain": "supreme.justia.com",
+      "citations": 1
+    },
+    {
+      "domain": "corporate.vanguard.com",
+      "citations": 1
+    },
+    {
+      "domain": "ey.com",
+      "citations": 1
+    },
+    {
+      "domain": "forrester.com",
+      "citations": 1
+    },
+    {
+      "domain": "lsa.umich.edu",
+      "citations": 1
+    },
+    {
+      "domain": "morganstanley.com",
+      "citations": 1
+    },
+    {
+      "domain": "polymarket.com",
+      "citations": 1
+    },
+    {
+      "domain": "schwab.com",
+      "citations": 1
+    },
+    {
+      "domain": "siepr.stanford.edu",
+      "citations": 1
+    },
+    {
+      "domain": "spglobal.com",
+      "citations": 1
+    },
+    {
+      "domain": "mckinsey.com",
+      "citations": 1
+    },
+    {
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "citations": 1
+    },
+    {
+      "domain": "uhc.com",
+      "citations": 1
+    },
+    {
+      "domain": "townofignacio.colorado.gov",
+      "citations": 1
+    }
+  ],
+  "cited_not_in_sample": [
+    {
+      "domain": "centerforpolitics.org",
+      "citations": 1
+    },
+    {
+      "domain": "climatecentral.org",
+      "citations": 1
+    },
+    {
+      "domain": "nine.com.au",
+      "citations": 1
+    },
+    {
+      "domain": "iapp.org",
+      "citations": 1
+    },
+    {
+      "domain": "jdsupra.com",
+      "citations": 1
+    },
+    {
+      "domain": "whitecase.com",
+      "citations": 1
+    },
+    {
+      "domain": "wsgr.com",
+      "citations": 1
+    },
+    {
+      "domain": "simplywall.st",
+      "citations": 1
+    },
+    {
+      "domain": "constitutioncenter.org",
+      "citations": 1
+    },
+    {
+      "domain": "federalnewsnetwork.com",
+      "citations": 1
+    },
+    {
+      "domain": "stevevladeck.com",
+      "citations": 1
+    },
+    {
+      "domain": "cbo.gov",
+      "citations": 1
+    },
+    {
+      "domain": "conference-board.org",
+      "citations": 1
+    },
+    {
+      "domain": "economic-research.bnpparibas.com",
+      "citations": 1
+    },
+    {
+      "domain": "economy.com",
+      "citations": 1
+    },
+    {
+      "domain": "oxfordeconomics.com",
+      "citations": 1
+    },
+    {
+      "domain": "skillsyncer.com",
+      "citations": 1
+    },
+    {
+      "domain": "aanp.org",
+      "citations": 1
+    },
+    {
+      "domain": "healthsystemtracker.org",
+      "citations": 1
+    },
+    {
+      "domain": "hklaw.com",
+      "citations": 1
+    },
+    {
+      "domain": "modernhealthcare.com",
+      "citations": 1
+    },
+    {
+      "domain": "paulkeckley.com",
+      "citations": 1
+    },
+    {
+      "domain": "realeconomy.rsmus.com",
+      "citations": 1
+    },
+    {
+      "domain": "revcare.com",
+      "citations": 1
+    },
+    {
+      "domain": "spectramedix.com",
+      "citations": 1
+    },
+    {
+      "domain": "bipartisanpolicy.org",
+      "citations": 1
+    },
+    {
+      "domain": "burleigh.gov",
+      "citations": 1
+    },
+    {
+      "domain": "kboulevard.com",
+      "citations": 1
+    },
+    {
+      "domain": "scvotes.gov",
+      "citations": 1
+    },
+    {
+      "domain": "sos.sc.gov",
+      "citations": 1
+    }
+  ],
+  "per_query": {
+    "latest US politics news 2026": {
+      "citations_total": 14,
+      "unique_domains": [
+        "abcnews.com",
+        "centerforpolitics.org",
+        "cnn.com",
+        "info.cq.com",
+        "nbcnews.com",
+        "nytimes.com",
+        "politico.com",
+        "rollcall.com",
+        "theguardian.com",
+        "thehill.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "climate change news this week": {
+      "citations_total": 18,
+      "unique_domains": [
+        "aljazeera.com",
+        "apnews.com",
+        "bbc.co.uk",
+        "bbc.com",
+        "cbsnews.com",
+        "climatecentral.org",
+        "cnn.com",
+        "insideclimatenews.org",
+        "nbcnews.com",
+        "nine.com.au",
+        "nytimes.com",
+        "reuters.com",
+        "theguardian.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "AI regulation latest updates": {
+      "citations_total": 6,
+      "unique_domains": [
+        "iapp.org",
+        "jdsupra.com",
+        "qz.com",
+        "techdecodedly.medium.com",
+        "whitecase.com",
+        "wsgr.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "Ukraine war current status": {
+      "citations_total": 20,
+      "unique_domains": [
+        "google.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "US stock market news today": {
+      "citations_total": 12,
+      "unique_domains": [
+        "bloomberg.com",
+        "cnbc.com",
+        "finance.yahoo.com",
+        "marketwatch.com",
+        "simplywall.st",
+        "tradingeconomics.com",
+        "wsj.com",
+        "x.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "supreme court ruling recent": {
+      "citations_total": 19,
+      "unique_domains": [
+        "constitutioncenter.org",
+        "federalnewsnetwork.com",
+        "nbcnews.com",
+        "newsweek.com",
+        "npr.org",
+        "reuters.com",
+        "scotusblog.com",
+        "stevevladeck.com",
+        "supreme.justia.com",
+        "washingtonpost.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "US economy outlook 2026": {
+      "citations_total": 20,
+      "unique_domains": [
+        "cbo.gov",
+        "conference-board.org",
+        "corporate.vanguard.com",
+        "economic-research.bnpparibas.com",
+        "economy.com",
+        "ey.com",
+        "forrester.com",
+        "lsa.umich.edu",
+        "morganstanley.com",
+        "oxfordeconomics.com",
+        "polymarket.com",
+        "schwab.com",
+        "siepr.stanford.edu",
+        "spglobal.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "tech industry layoffs 2026": {
+      "citations_total": 7,
+      "unique_domains": [
+        "businessinsider.com",
+        "computerworld.com",
+        "finance.yahoo.com",
+        "linkedin.com",
+        "skillsyncer.com",
+        "tech.yahoo.com",
+        "techcrunch.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "healthcare news 2026": {
+      "citations_total": 18,
+      "unique_domains": [
+        "aanp.org",
+        "cnbc.com",
+        "forbes.com",
+        "healthsystemtracker.org",
+        "hklaw.com",
+        "linkedin.com",
+        "mckinsey.com",
+        "modernhealthcare.com",
+        "paulkeckley.com",
+        "pmc.ncbi.nlm.nih.gov",
+        "realeconomy.rsmus.com",
+        "revcare.com",
+        "robert-longyear.medium.com",
+        "spectramedix.com",
+        "uhc.com",
+        "youtube.com"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    },
+    "election results 2026": {
+      "citations_total": 6,
+      "unique_domains": [
+        "bipartisanpolicy.org",
+        "burleigh.gov",
+        "kboulevard.com",
+        "scvotes.gov",
+        "sos.sc.gov",
+        "townofignacio.colorado.gov"
+      ],
+      "raw_response_keys": [
+        "requestMetadata",
+        "textBlocks",
+        "references"
+      ]
+    }
+  }
+}
