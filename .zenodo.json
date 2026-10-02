@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "The AI Crawler Block Index (Dataset)",
+  "description": "<p>Data behind <a href=\"https://hasdata.com/blog/ai-crawler-block-index\">The AI Crawler Block Index</a>, a HasData study of how the top of the web blocks AI crawlers in robots.txt and in live responses.</p><p>The panel covers 10,894 registrable domains, 9,746 from the Tranco top-10k list (list ID 46XLX) plus 1,148 news publishers from the news-homepages project. It was measured twice with the same method. The July 10, 2026 wave is the baseline taken before Cloudflare's default AI block took effect, and the September 16, 2026 wave is the first measurement after it. Live enforcement was tested on a fixed 2,096-domain subset by requesting each homepage from the same US datacenter IP with a Chrome user agent and with the GPTBot user agent string.</p><p>This release ships every headline metric for both waves, the 118 domains whose archived robots.txt carried an AI-training signal, the 206 domains that refused to serve robots.txt, 1,500 raw homepage probes across six user agents, and the scripts behind the verification files. The per-domain panel is planned as a follow-up release.</p>",
+  "creators": [
+    {
+      "name": "HasData"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "AI crawlers",
+    "robots.txt",
+    "GPTBot",
+    "web crawling",
+    "bot blocking",
+    "Cloudflare",
+    "news publishers",
+    "Tranco"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://hasdata.com/blog/ai-crawler-block-index",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    }
+  ]
+}
