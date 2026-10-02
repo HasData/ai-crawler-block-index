@@ -4,7 +4,7 @@
 
 ![HasData, the web scraping API company behind this study](banner.png)
 
-Data behind [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-block-index), a HasData study of how the top of the web blocks AI crawlers on paper and in practice. The panel covers 10,894 registrable domains, measured twice with the same method. The July 10, 2026 wave is the baseline taken before Cloudflare's default AI block took effect, and the September 16, 2026 wave is the first measurement after it. As far as we know, no other public dataset holds the before picture.
+Data behind [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-block-index?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme), a HasData study of how the top of the web blocks AI crawlers on paper and in practice. The panel covers 10,894 registrable domains, measured twice with the same method. The July 10, 2026 wave is the baseline taken before Cloudflare's default AI block took effect, and the September 16, 2026 wave is the first measurement after it. As far as we know, no other public dataset holds the before picture.
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ After September 15, written bans started to vanish rather than spread. On Cloudf
 
 ![Grouped bar chart comparing robots.txt GPTBot bans on Cloudflare sites and other sites in July and September, showing 17.1% falling to 9.9% on Cloudflare and 18.7% holding at 18.6% elsewhere](charts/sept-cloudflare-vs-other.png)
 
-Two more numbers set the scale. Cloudflare's default AI block covered 8.5% of the open web and 13.6% of publishers on the eve of September 15, and blocking does not keep a site out of AI answers, since 27 of the 82 domains Google's AI Overview cited on our ten news queries block at least one AI crawler. The [article](https://hasdata.com/blog/ai-crawler-block-index) walks through all of it with the full chart set, and every number above traces to a row in the files below.
+Two more numbers set the scale. Cloudflare's default AI block covered 8.5% of the open web and 13.6% of publishers on the eve of September 15, and blocking does not keep a site out of AI answers, since 27 of the 82 domains Google's AI Overview cited on our ten news queries block at least one AI crawler. The [article](https://hasdata.com/blog/ai-crawler-block-index?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme) walks through all of it with the full chart set, and every number above traces to a row in the files below.
 
 ## The Panel
 
@@ -83,7 +83,7 @@ The headline CSV is the one to start with. It carries every number the study lea
 
 ## Reproducing the Checks
 
-The `method/` folder holds the scripts behind the verification files. `per_bot_penalty_probes.py` sends the six-user-agent probes and writes the raw JSONL, `http_status_breakdown.py` aggregates statuses and per-CDN behaviour, and `ai_overview_citations.py` collects AI Overview citations through the [HasData SERP API](https://hasdata.com/apis/google-serp-api) and joins them against the blocking data. The citations script reads the key from the `HASDATA_API_KEY` environment variable, and the scripts expect the fieldwork input files in `method/raw/`, which this release doesn't ship.
+The `method/` folder holds the scripts behind the verification files. `per_bot_penalty_probes.py` sends the six-user-agent probes and writes the raw JSONL, `http_status_breakdown.py` aggregates statuses and per-CDN behaviour, and `ai_overview_citations.py` collects AI Overview citations through the [HasData SERP API](https://hasdata.com/apis/google-serp-api?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme) and joins them against the blocking data. The citations script reads the key from the `HASDATA_API_KEY` environment variable, and the scripts expect the fieldwork input files in `method/raw/`, which this release doesn't ship.
 
 ## Scope of This Release
 
@@ -91,7 +91,7 @@ This release ships every aggregate table of the study and all raw verification r
 
 ## License
 
-The dataset is released under [CC BY 4.0](LICENSE). You can copy, share, and adapt it, including commercially, as long as you credit HasData with a link to [hasdata.com](https://hasdata.com) or the [study](https://hasdata.com/blog/ai-crawler-block-index).
+The dataset is released under [CC BY 4.0](LICENSE). You can copy, share, and adapt it, including commercially, as long as you credit HasData with a link to [hasdata.com](https://hasdata.com?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme) or the [study](https://hasdata.com/blog/ai-crawler-block-index?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme).
 
 ## How to Cite
 
@@ -114,10 +114,10 @@ GitHub's "Cite this repository" button in the sidebar gives the same reference i
 
 ## Disclaimer
 
-The data comes from publicly available `robots.txt` files and homepage responses, collected for research. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal) covers how we think about the question.
+The data comes from publicly available `robots.txt` files and homepage responses, collected for research. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme) covers how we think about the question.
 
 ## More Resources
 
-- [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-block-index), the study this data belongs to
-- [Web Scraping Without Getting Blocked](https://hasdata.com/blog/web-scraping-without-getting-blocked)
+- [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-block-index?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme), the study this data belongs to
+- [Web Scraping Without Getting Blocked](https://hasdata.com/blog/web-scraping-without-getting-blocked?utm_source=github&utm_medium=syndication&utm_campaign=ai-crawler-block-index&utm_content=ai-crawler-block-index-readme)
 - [Cloudflare press release on the default AI block](https://www.cloudflare.com/en-gb/press/press-releases/2026/cloudflare-helps-end-the-search-or-ai-training-tradeoff/)
