@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "The AI Crawler Block Index (Dataset)"
+authors:
+  - name: "HasData"
+doi: 10.5281/zenodo.23101648
+url: "https://hasdata.com/blog/ai-crawler-block-index"
+repository-code: "https://github.com/HasData/ai-crawler-block-index"
+license: CC-BY-4.0
+keywords:
+  - "AI crawlers"
+  - "robots.txt"
+  - "GPTBot"
+  - "bot blocking"
+  - "Cloudflare"

@@ -1,5 +1,7 @@
 # The AI Crawler Block Index (Dataset)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23101648.svg)](https://doi.org/10.5281/zenodo.23101648)
+
 ![HasData, the web scraping API company behind this study](banner.png)
 
 Data behind [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-block-index), a HasData study of how the top of the web blocks AI crawlers on paper and in practice. The panel covers 10,894 registrable domains, measured twice with the same method. The July 10, 2026 wave is the baseline taken before Cloudflare's default AI block took effect, and the September 16, 2026 wave is the first measurement after it. As far as we know, no other public dataset holds the before picture.
@@ -14,6 +16,7 @@ Data behind [The AI Crawler Block Index](https://hasdata.com/blog/ai-crawler-blo
 - [Reproducing the Checks](#reproducing-the-checks)
 - [Scope of This Release](#scope-of-this-release)
 - [License](#license)
+- [How to Cite](#how-to-cite)
 - [Disclaimer](#disclaimer)
 - [More Resources](#more-resources)
 
@@ -89,6 +92,25 @@ This release ships every aggregate table of the study and all raw verification r
 ## License
 
 The dataset is released under [CC BY 4.0](LICENSE). You can copy, share, and adapt it, including commercially, as long as you credit HasData with a link to [hasdata.com](https://hasdata.com) or the [study](https://hasdata.com/blog/ai-crawler-block-index).
+
+## How to Cite
+
+Every GitHub release of this repository is archived on Zenodo. The DOI below always resolves to the latest release, and each release also carries its own DOI on the [Zenodo record](https://doi.org/10.5281/zenodo.23101648) when a citation has to point at one exact version.
+
+> HasData. (2026). *The AI Crawler Block Index (Dataset)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23101648
+
+```bibtex
+@dataset{hasdata_ai_crawler_block_index,
+  author    = {{HasData}},
+  title     = {The AI Crawler Block Index (Dataset)},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23101648},
+  url       = {https://doi.org/10.5281/zenodo.23101648}
+}
+```
+
+GitHub's "Cite this repository" button in the sidebar gives the same reference in APA and BibTeX.
 
 ## Disclaimer
 
